@@ -1,8 +1,8 @@
 # Grantha
 ```mermaid
 graph TD;
-    A-->Resource 1 : Physical Rental Services on Deposit-based model;
-    A-->Resource 2 : PDF Service;
-    A-->Resource 3 : Video Service;
-    A-->Resource 4 : Podcast Service;
+    A[Book Resource Aggregator]-->|Physical Rental Services on Deposit-based model| Resource 1;
+    A-->|PDF Service| Resource 2 ;
+    A-->|Video Service| Resource 3;
+    A-->|Podcast Service| Resource 4 ;
 ```
