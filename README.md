@@ -1,6 +1,6 @@
 ```mermaid
 graph TD;
-    A[Book Resource Aggregator (Grantha)];
+    A[Book Resource Aggregator-Grantha];
     B[Physical Rental Services on Deposit-based model];
     C[PDF Service];
     D[Video Service];
