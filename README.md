@@ -11,4 +11,4 @@ graph TD;
     A --> D;
     A --> E;
 ```
-
+Instead of manually integrating multiple APIs, Grantha leverages GPT to fetch legal download links to PDFs, movies, and podcasts.
