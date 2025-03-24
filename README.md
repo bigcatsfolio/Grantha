@@ -53,15 +53,16 @@ Step 4: Start the Development Server
 Start the React app using: npm start
 This will run the frontend on http://localhost:3000/ (or 5432)
 
-#### Watch Grantha on your screen now! 😎🚀🔥
+### Watch Grantha on your screen now! 😎🚀🔥
 
 #### Which file to run first after you download our code from here ? 
 Run the GranthaApplication.java file inside the src/main/java/com/grantha/ package.
 and npm start in VsCode for frontend. You can view it on your localhost.
 
 
-Thank you for checking Grantha out !
-Built with endless errors and laughter , 
+#### Thank you for checking Grantha out !
 
-Lipisha and Varada 
-Mtech IT , RVCE Bangalore.
+### Built with endless errors and laughter 💙
+
+### Lipisha and Varada 
+### Mtech IT , RVCE Bangalore.
