@@ -24,3 +24,12 @@ graph TD;
 | **Node.js** (for React) | 18.19.0           | [🔗 Download Node.js](https://nodejs.org/) |
 | **Postman**          | 11.0.0 (2025)      | [🔗 Download Postman](https://www.postman.com/downloads/) |
 | **PostgreSQL**       | 15.6               | [🔗 Download PostgreSQL](https://www.postgresql.org/download/) |
+
+## For Backend :
+Step 1 : This project uses SpringBoot (a Java framework). Use Spring Initializer to generate a Springboot project.
+Project : Maven
+Language : Java
+SpringBoot : 3.4.4
+Enter metadata and add depedencies : Spring Web , Spring Data JPA , PostgreSQL driver
+
+Step 2 : Extract and open the generated zip file through IntelliJ IDE.
