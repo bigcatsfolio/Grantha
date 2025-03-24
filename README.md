@@ -25,11 +25,31 @@ graph TD;
 | **Postman**          | 11.0.0 (2025)      | [🔗 Download Postman](https://www.postman.com/downloads/) |
 | **PostgreSQL**       | 15.6               | [🔗 Download PostgreSQL](https://www.postgresql.org/download/) |
 
-## For Backend :
+## Installation steps for Backend :
 Step 1 : This project uses SpringBoot (a Java framework). Use Spring Initializer to generate a Springboot project.
+Select the following 
 Project : Maven
 Language : Java
 SpringBoot : 3.4.4
-Enter metadata and add depedencies : Spring Web , Spring Data JPA , PostgreSQL driver
+Enter metadata and add dependencies : Spring Web , Spring Data JPA , PostgreSQL driver
 
 Step 2 : Extract and open the generated zip file through IntelliJ IDE.
+
+Step 3 : Start Building and check responses from server through postman !
+
+## Installation steps for Frontend :
+
+Step 1: Install Node.js and Create React App
+npx create-react-app grantha-frontend
+
+Step 2: Open the Project in VS Code
+
+Step 3: Install Required Dependencies
+Run the following command :
+npm install react-router-dom axios redux react-redux @reduxjs/toolkit react-query tailwindcss @mui/icons-material lucide-react
+
+Step 4: Start the Development Server
+Start the React app using: npm start
+This will run the frontend on http://localhost:3000/ (or 5432)
+
+Watch Grantha on your screen now! 😎🚀🔥
