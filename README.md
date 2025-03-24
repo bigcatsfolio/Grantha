@@ -51,4 +51,4 @@ Step 4: Start the Development Server
 Start the React app using: npm start
 This will run the frontend on http://localhost:3000/ (or 5432)
 
-Watch Grantha on your screen now! 😎🚀🔥
+#### Watch Grantha on your screen now! 😎🚀🔥
