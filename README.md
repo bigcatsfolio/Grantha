@@ -34,7 +34,7 @@ Enter metadata and add dependencies : Spring Web , Spring Data JPA , PostgreSQL 
 
 Step 2 : Extract and open the generated zip file through IntelliJ IDE.
 
-Step 3 : Start Building and check responses from server through postman !
+Step 3 : Start Building and check responses from server through postman ! Make sure to maintain packages for each service in an organized way for easy imports 😱
 
 ## Installation steps for Frontend :
 
