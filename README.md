@@ -61,5 +61,3 @@ and write npm start in VsCode terminal for user interface. You can view it on yo
 
 
 #### Thank you for checking Grantha out !
-
-### Built with endless errors and laughter 💙
